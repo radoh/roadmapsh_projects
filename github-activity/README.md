@@ -1,6 +1,6 @@
 # GitHub User Activity Tracker
 
-This project is based on [GitHub User Activity Tracker](https://roadmap.sh/projects/github-user-activity), a Python-based application to fetch and display the activity of a GitHub user.
+This project implements [GitHub User Activity Tracker](https://roadmap.sh/projects/github-user-activity), a Python-based application to fetch and display the activity of a GitHub user.
 
 ## Features
 - Fetches GitHub activity using the GitHub API.
@@ -52,6 +52,7 @@ Before getting started, ensure you have the following installed on your system:
 
 ## Notes
 
+- roadmap.sh project url: https://roadmap.sh/projects/github-user-activity
 - Make sure your GitHub API token has the necessary permissions to fetch user activity.
 - Refer to the [official documentation](https://roadmap.sh/projects/github-user-activity) for additional configuration and advanced usage details.
 
